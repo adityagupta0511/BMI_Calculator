@@ -1,5 +1,5 @@
 .container {
-    width: 360px;
+    width: 375px;
     height: 600px;
     background-color: black;
     color: #fff;
@@ -36,6 +36,7 @@ height: 35px;
 margin-left: 100px;
 margin-top: 25px;
 background-color: gray;
+padding-bottom: 5px;
 border-radius: 1rem;
 color: black;
 border: 2px solid #212121;
